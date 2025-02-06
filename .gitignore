@@ -1,7 +1,2 @@
-build/
-dist/
-selalib.egg-info/
-
-__pycache__/
-
-.ipynb_checkpoints/
+t3mp/
+.env
