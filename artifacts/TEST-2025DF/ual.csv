@@ -1,0 +1,2 @@
+RecordId,CreationDate,RecordType,Operation,UserId,AuditData,AssociatedAdminUnits,AssociatedAdminUnitsNames
+687dfe3e-ef71-4711-fa6b-08dd57affe88,"2025-02-28T04:25:55.0000000Z ",6,FilePreviewed,user1@example.com,"{""AppAccessContext"":{""AADSessionId"":""0022d229-b8 ..."", ...}, ...}",,
