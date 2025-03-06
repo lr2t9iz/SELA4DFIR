@@ -1,3 +1,4 @@
 .env
+aux_*
 t3mp/
 .ipynb_checkpoints/
